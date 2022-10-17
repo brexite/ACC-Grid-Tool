@@ -1,0 +1,12 @@
+{
+    "fonts": {
+      "fontLarge": "./Assets/Fonts/agencyr.ttf",
+      "fontNorm": "./Assets/Fonts/agencyb.ttf"
+    },
+    "table": "./Assets/table.png",
+    "startX": 333,
+    "startY": 284,
+    "spacing": 44,
+    "maxSize": 15
+
+  }

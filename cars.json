@@ -1,0 +1,217 @@
+{
+	"cars": [{
+			"model": "AMR",
+			"key": "V12 Vantage GT3",
+			"value": 12
+		},
+		{
+		    "model": "AMR",
+			"key": "V8 Vantage",
+			"value": 20
+		},
+		{
+		    "model": "Audi",
+			"key": "R8 LMS Evo",
+			"value": 19
+		},
+		{
+		    "model": "Audi",
+			"key": "R8 LMS GT3 Evo 2",
+			"value": 31
+		},
+		{
+		    "model": "Audi",
+			"key": "R8 LMS",
+			"value": 3
+		},
+		{
+		    "model": "BMW",
+			"key": "M4 GT3",
+			"value": 30
+		},
+		{
+		    "model": "BMW",
+			"key": "M6 GT3",
+			"value": 7
+		},
+		{
+		    "model": "Bentley",
+			"key": "Continental GT3 2015",
+			"value": 11
+		},
+		{
+		    "model": "Bentley",
+			"key": "Continental GT3 2018",
+			"value": 8
+		},
+		{
+		    "model": "Jaguar",
+			"key": "Emil Frey G3",
+			"value": 14
+		},
+		{
+		    "model": "Ferrari",
+			"key": "488 GT3 Evo",
+			"value": 24
+		},
+		{
+		    "model": "Ferrari",
+			"key": "488 GT3",
+			"value": 2
+		},
+		{
+		    "model": "Honda",
+			"key": "NSX GT3 Evo",
+			"value": 21
+		},
+		{
+		    "model": "Honda",
+			"key": "NSX GT3",
+			"value": 17
+		},
+		{
+		    "model": "Lamborghini",
+			"key": "Huracan GT3 Evo",
+			"value": 16
+		},
+		{
+		    "model": "Lamborghini",
+			"key": "Huracán GT3",
+			"value": 4
+		},
+		{
+		    "model": "Lexus",
+			"key": "RC F GT3",
+			"value": 15
+		},
+		{
+		    "model": "Mclaren",
+			"key": "650S GT3",
+			"value": 5
+		},
+		{
+		    "model": "Mclaren",
+			"key": "720S GT3",
+			"value": 22
+		},
+		{
+		    "model": "Mercedes-AMG",
+			"key": "GT3",
+			"value": 1
+		},
+		{
+		    "model": "Mercedes-AMG ",
+			"key": "GT3 Evo",
+			"value": 25
+		},
+		{
+		    "model": "Nissan",
+			"key": "GT-R Nismo GT3 2015",
+			"value": 10
+		},
+		{
+		    "model": "Nissan",
+			"key": "GT-R Nismo GT3 2018",
+			"value": 6
+		},
+		{
+		    "model": "Porsche",
+			"key": "991 GT3 R",
+			"value": 0
+		},
+		{
+		    "model": "Porsche",
+			"key": "991 II GT3 R",
+			"value": 23
+		},
+		{
+		    "model": "Reiter Engineering",
+			"key": "R-EX GT3",
+			"value": 13
+		},
+		{
+		    "model": "Alpine",
+			"key": "A110 GT4",
+			"value": 50
+		},
+		{
+		    "model": "Aston Martin",
+			"key": "Vantage GT4",
+			"value": 51
+		},
+		{
+		    "model": "Audi",
+			"key": "R8 LMS GT4",
+			"value": 52
+		},
+		{
+		    "model": "BMW",
+			"key": "M4 GT4",
+			"value": 53
+		},
+		{
+		    "model": "Chevrolet",
+			"key": "Camaro GT4",
+			"value": 55
+		},
+		{
+		    "model": "Ginetta",
+			"key": "G55 GT4",
+			"value": 56
+		},
+		{
+		    "model": "KTM",
+			"key": "X-Bow GT4",
+			"value": 57
+		},
+		{
+		    "model": "Maserati",
+			"key": "MC GT4",
+			"value": 58
+		},
+		{
+		    "model": "Mclaren",
+			"key": "570S GT4",
+			"value": 59
+		},
+		{
+		    "model": "Mercedes-AMG",
+			"key": "GT4",
+			"value": 60
+		},
+		{
+		    "model": "Porsche",
+			"key": "718 Cayman GT4 Clubsport",
+			"value": 61
+		},
+		{
+		    "model": "Ferrari",
+			"key": "488 Challenge Evo",
+			"value": 26
+		},
+		{
+		    "model": "Lamborghini",
+			"key": "Huracan SuperTrofeo",
+			"value": 18
+		},
+		{
+		    "model": "Lamborghini",
+			"key": "Huracán SuperTrofeo EVO2",
+			"value": 29
+		},
+		{
+		    "model": "Porsche",
+			"key": "991 II GT3 Cup",
+			"value": 9
+		},
+		{
+		    "model": "Porsche",
+			"key": "992 GT3 Cup",
+			"value": 28
+		},
+		{
+		    "model": "BMW",
+			"key": "M2 Club Sport Racing",
+			"value": 27
+	}]
+}
