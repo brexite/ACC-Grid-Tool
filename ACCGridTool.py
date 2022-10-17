@@ -24,9 +24,11 @@ def msToFormattedTime(number):
     minutes = int((number/(1000*60))%60)
     return ('{}:{}.{}'.format(minutes,str(seconds).zfill(2),str(millis).zfill(3)))
 
+filename = input('Enter a filename: ') or '220808_191738_Q.json'
+
 with open(r'./config.json', 'rb') as config:
     params = json.load(config)
-with open(r'./220808_191738_Q.json', 'rb') as rawData:
+with open(r'./' + filename, 'rb') as rawData:
     qualiData = json.load(rawData)
 print(params["fonts"]["fontLarge"])
 startPos = 1
